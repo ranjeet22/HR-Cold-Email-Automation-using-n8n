@@ -3,7 +3,8 @@
 Welcome to **HR Cold Email Automation using n8n**!  
 This repository provides resources, workflows, and guides to automate the process of sending targeted cold emails for Human Resources (HR) outreach, powered by [n8n](https://n8n.io/), the extendable workflow automation tool.
 
----
+## Workflow
+<img width="1702" height="531" alt="Image" src="https://github.com/user-attachments/assets/fa2e06c7-6907-407f-b8d0-f2f0397c36b0" />
 
 ## 🚀 Overview
 
